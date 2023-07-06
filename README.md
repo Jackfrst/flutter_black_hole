@@ -11,4 +11,12 @@ Flutter Blackhole
 <img alt="Static Badge" src="https://img.shields.io/badge/%20Code_Size-317kb-blue">
 </p>
 
-![ezgif com-video-to-gif](https://github.com/Jackfrst/flutter_black_hole/assets/60434580/07c18795-80d9-40c7-bc5e-5c431e5471e2)
+
+<table align="center">
+  <tr>
+    <th>VISUALIZATION</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Jackfrst/flutter_black_hole/assets/60434580/07c18795-80d9-40c7-bc5e-5c431e5471e2"></td>
+  </tr>
+</table>
