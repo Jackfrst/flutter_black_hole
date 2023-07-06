@@ -24,11 +24,6 @@ Flutter Blackhole
 
 ## Getting Started
 
-Step 0:
-
-Prerequisite:
-You will need a Custom API for your self the required API data Structer can be found in the Model class. Then add a consumer to extract the data to send to the youtube player.
-
 Step 1:
 
 Download or clone this repo by using the link below:
